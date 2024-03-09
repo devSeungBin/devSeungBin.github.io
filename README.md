@@ -15,9 +15,7 @@
 
 ### Markdown
 
-> - [Markup 개념정리](Markdown)
-
-</br>
+> - [Markup 개념정리](https://devseungbin.github.io/posts/MarkupConcept/)
 
 ### Node.js
 
