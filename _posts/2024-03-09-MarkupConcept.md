@@ -1,7 +1,7 @@
 ---
 title: Markup 개념정리
 date: 2024-03-09 11:30:42 +0900
-categories: [Mark Up, summary]
+categories: [Mark Up, markup]
 tags: [programming] # TAG names should always be lowercase
 comments: true
 author: seungbin
