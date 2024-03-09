@@ -5,7 +5,7 @@ categories: [Blog, notice]
 tags: [etc] # TAG names should always be lowercase
 comments: true
 author: seungbin
-img_path: /assets/img/posts/Blog/notice/2024-03-09-102610/
+img_path: /assets/img/posts/Blog/notice/2024-03-09-CreateMyBlog/
 image:
   path: preview.jpg
   alt: 이미지 미리보기 테스트
