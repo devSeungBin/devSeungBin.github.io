@@ -13,10 +13,7 @@
 
 ## Blog Posting List
 
-### Markdown
-
-> - [Markup 개념정리](https://devseungbin.github.io/posts/MarkupConcept/)
-
 ### Node.js
 
-> - [Node.js 개념정리](Nodejs)
+> - [Node.js란?](Nodejs)
+> - []()
