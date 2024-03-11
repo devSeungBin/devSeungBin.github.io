@@ -50,10 +50,7 @@ image:
 <br>
 
 ![CM&VC.jpg](/CM&VC.jpg)
-
-<div align="center">
-    <em>변경 관리와 버전 관리의 차이</em>
-</div>
+<em>변경 관리와 버전 관리의 차이</em>
 
 <br>
 
