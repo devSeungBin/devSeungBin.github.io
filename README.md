@@ -2,12 +2,12 @@
 
 # SeungBin's blog page
 
-</br>
+<br>
 블로그에 포스팅되는 글의 목록을 정리해 나열한 페이지입니다.
 
 목록의 글을 클릭해 해당 포스트로 바로가기가 가능합니다.
-</br>
-</br>
+<br>
+<br>
 
 </div>
 
@@ -25,8 +25,15 @@
 
 ### Github
 
-> - [Github란?]()
-> - [Github로 협업하기]()
+> **Git 시작하기**
+>
+> - [VCS(버전 관리)란?]()
+> - [Git과 Github란?]()
+> - [Git 기초]()
+>
+> **Git의 기초**
+>
+> - []()
 
 <!-- Github category's end -->
 
@@ -34,7 +41,14 @@
 
 ### Discord
 
-> - [Discord란?]()
-> - [Discord로 협업하기]()
+> - []()
 
 <!-- Discord category's end -->
+
+<!-- CS category -->
+
+### CS
+
+> - []()
+
+<!-- CS category's end -->
