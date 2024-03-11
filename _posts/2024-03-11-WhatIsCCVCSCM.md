@@ -5,9 +5,9 @@ categories: [CS, devops]
 tags: [keyword] # TAG names should always be lowercase
 comments: true
 author: seungbin
-img_path: /assets/img/posts/
+img_path: /assets/img/posts/CS/devops/2024-03-11-WhatIsCCVCSCM/
 image:
-  path: WIP.jpg
+  path: thumbnail.jpg
   alt: 작성중
 ---
 
@@ -49,7 +49,7 @@ image:
 
 <br>
 
-![CM&VC.jpg](../assets/img/posts/CS/devops/CM&VC.jpg)
+![CM&VC.jpg](/assets/img/posts/CS/devops/2024-03-11-WhatIsCCVCSCM/CM&VC.jpg)
 
 <div align="center">
     <em>변경 관리와 버전 관리의 차이</em>
