@@ -5,7 +5,7 @@ categories: [CS, devops]
 tags: [keyword] # TAG names should always be lowercase
 comments: true
 author: seungbin
-img_path: /assets/img/posts/Blog/notice/2024-03-12-WhatIsCCVCSCM/
+img_path: /assets/img/posts/CS/devops/2024-03-12-WhatIsCCVCSCM/
 image:
   path: preview.jpg
   alt: 이미지 미리보기
