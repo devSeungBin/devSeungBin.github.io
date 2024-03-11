@@ -49,7 +49,7 @@ image:
 
 <br>
 
-![CM&VC.jpg](2024-03-11-WhatIsCCVCSCM/CM&VC.jpg)
+![CM&VC.jpg](/CM&VC.jpg)
 
 <div align="center">
     <em>변경 관리와 버전 관리의 차이</em>
