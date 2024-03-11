@@ -5,10 +5,6 @@ categories: [CS, devops]
 tags: [keyword] # TAG names should always be lowercase
 comments: true
 author: seungbin
-img_path: /assets/img/posts/CS/devops/2024-03-11-WhatIsCCVCSCM/
-image:
-  path: thumbnail.jpg
-  alt: 작성중
 ---
 
 # 변경 관리, 버전 관리, 형상 관리란?
@@ -48,8 +44,6 @@ image:
 > Git은 분산 버전 관리 시스템이다.
 
 <br>
-
-<!-- ![CM&VC.jpg](/assets/img/posts/CS/devops/2024-03-11-WhatIsCCVCSCM/CM&VC.jpg) -->
 
 <div align="center">
     <em>변경 관리와 버전 관리의 차이</em>
