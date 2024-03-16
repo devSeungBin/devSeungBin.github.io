@@ -91,7 +91,7 @@ image:
    ![branch.jpg](/branch.jpg)
 
    > github flow 방식은 main(master) branch와 topic branch만 관리하면 되는 간단한 구조이다. 이름 그대로 github 환경에서 사용하기 적합한 branch 전략이며 웹 애플리케이션 개발 환경에서도 사용하기 적합하다.
-   > {: .prompt-info }
+   {: .prompt-info }
 
 2. 코드 작업 후 add / commit / push
 
@@ -133,7 +133,7 @@ image:
    ![pullrequest3.jpg](/pullrequest3.jpg)
 
    > PR 내역은 원본 저장소의 pull request 메뉴에서 확인 가능하다. Conversation에서는 PR 메세지를, Commits에서는 해당 branch의 커밋 내역을, File changed에서는 파일, 코드의 수정 내역을 바로 볼 수 있다.
-   > {: .prompt-info }
+   {: .prompt-info }
 
 4. merge pull request **(팀장만)**
 
