@@ -25,30 +25,18 @@
 
 ### Github
 
-> **Git 시작하기**
+> **Git 협업하기**
 >
-> - [VCS(버전 관리)란?]()
-> - [Git과 Github란?]()
-> - [Git 기초]()
->
-> **Git의 기초**
->
-> - []()
+> - [Git로 협업하기]()
+> -
 
 <!-- Github category's end -->
-
-<!-- Discord category -->
-
-### Discord
-
-> - []()
-
-<!-- Discord category's end -->
 
 <!-- CS category -->
 
 ### CS
 
-> - []()
+> - [변경 관리, 버전 관리, 형상 관리란?](https://devseungbin.github.io/posts/WhatIsCCVCSCM/)
+> -
 
 <!-- CS category's end -->
