@@ -18,6 +18,7 @@
 ### Node.js
 
 > - [Node.js란?](Nodejs)
+> -
 
 <!-- node.js category's end -->
 
@@ -27,7 +28,7 @@
 
 > **Git 협업하기**
 >
-> - [Git로 협업하기]()
+> - [Github로 협업하기](https://devseungbin.github.io/posts/CollaborateInGithub/)
 > -
 
 <!-- Github category's end -->
