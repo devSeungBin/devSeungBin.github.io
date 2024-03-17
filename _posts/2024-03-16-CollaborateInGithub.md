@@ -101,7 +101,7 @@ image:
    ![branch.jpg](/branch.jpg)
 
    > github flow 방식은 main(master) 브랜치와 topic 브랜치만 관리하면 되는 간단한 구조이다. 이름 그대로 github 환경에서 사용하기 적합한 브랜치 전략이며 웹 애플리케이션 개발 환경에서도 사용하기 적합하다.
-   > {: .prompt-info }
+   {: .prompt-info }
 
 2. 코드 작업 후 add / commit / push
 
@@ -143,7 +143,7 @@ image:
    ![pullrequest3.jpg](/pullrequest3.jpg)
 
    > PR 내역은 원본 저장소의 pull request 메뉴에서 확인 가능하다. Conversation에서는 PR 메세지를, Commits에서는 해당 브랜치의 커밋 내역을, File changed에서는 파일, 코드의 수정 내역을 바로 볼 수 있다.
-   > {: .prompt-info }
+   {: .prompt-info }
 
 4. merge pull request **(팀장만)**
 
@@ -178,7 +178,7 @@ image:
    ```
 
    > 만약 로컬 브랜치를 삭제하는 과정에서 오류가 생겼을 경우, 십중팔구 merge 충돌 문제이다. 이 문제는 원본 저장소가 다른 팀원이 올린 코드와 merge되어서 아직 자신의 저장소와 동기화되지 않았기 때문에 발생한다. 따라서 저장소의 브랜치를 동기화하거나 또는 로컬 브랜치를 강제로 지우면 해결된다. `git branch -D [branch 이름]`
-   > {: .prompt-info }
+   {: .prompt-info }
 
    ~~(방법 2. 로컬 저장소를 원본 저장소와 동기화한 후 로컬 저장소를 원격 저장소와 동기화)~~
 
